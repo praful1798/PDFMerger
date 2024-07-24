@@ -1,12 +1,6 @@
 #PDFMerger for PHP (PHP 5 and above up to PHP 7.1 and PHP 8 Compatible)
 
-PDFMerger created by Jarrod Nettles December 2009 jarrod@squarecrow.com
 
-Updated by Vasiliy Zaytsev February 2016 vasiliy.zaytsev@ffwagency.com
-
-- Uses tcpdf 6.2.12 by Nicola Asuni
-- Uses patched tcpdi_parser 1.0 by Paul Nicholls with own TCPdiParserException
-- Uses TCPDI 1.0 by Paul Nicholls with FPDF_TPL extension 1.2.3 by Setasign
 
 ## PHP 5,6,7 and 8 Compatible
 
